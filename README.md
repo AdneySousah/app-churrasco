@@ -32,7 +32,7 @@ A aplicação permite calcular a quantidade ideal de carne para um churrasco, co
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/churrasco-calculadora.git
+   git clone https://github.com/seu-usuario/app-churrasco.git
 
 Instale as dependências:
 
