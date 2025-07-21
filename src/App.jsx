@@ -54,7 +54,7 @@ function App() {
         <input type="number" placeholder="digite a quantidade de convidados" value={qtConvidados} onChange={e => setQtConvidados(e.target.value)} required />
 
         <p>O churrasco geralmente é calculado para 300g + 10% de carne por pessoa, o calculo muda
-          quano existem crianças na contagem, deseja calcular dessa forma?
+          quando existem crianças na contagem, deseja calcular dessa forma?
         </p>
         <select value={selected} onChange={e => setSelected(e.target.value)}>
           <option value=''>Escolha uma opção</option>
